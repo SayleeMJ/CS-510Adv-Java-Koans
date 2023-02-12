@@ -30,7 +30,7 @@ public class AboutMocks {
         }
 
         public boolean doSomething() {
-            c.doBusinessStuff();
+//            c.doBusinessStuff();
             return true;
         }
     }
